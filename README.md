@@ -1,5 +1,3 @@
-# hello-cpp
-
 ## Why?
 Because I can.
 
